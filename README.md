@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarenPamza
 - 👀 I’m interested in Building Distributed & Scalable Applications. 
-- 🌱 I’m currently learning Cloud & ML. 
+- 🌱 I’m currently learning Cloud, BlockChain & ML. 
 - 💞️ I’m looking to collaborate on Distributed Application & BlockChain. 
 - 📫 How to reach me @https://www.linkedin.com/in/narendarsinghj/
 
